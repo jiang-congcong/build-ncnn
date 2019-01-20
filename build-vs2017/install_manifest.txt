@@ -1,0 +1,14 @@
+D:/ncnn-insightface/ncnn/ncnn-master/build-vs2017/install/lib/ncnn.lib
+D:/ncnn-insightface/ncnn/ncnn-master/build-vs2017/install/include/allocator.h
+D:/ncnn-insightface/ncnn/ncnn-master/build-vs2017/install/include/blob.h
+D:/ncnn-insightface/ncnn/ncnn-master/build-vs2017/install/include/cpu.h
+D:/ncnn-insightface/ncnn/ncnn-master/build-vs2017/install/include/layer.h
+D:/ncnn-insightface/ncnn/ncnn-master/build-vs2017/install/include/layer_type.h
+D:/ncnn-insightface/ncnn/ncnn-master/build-vs2017/install/include/mat.h
+D:/ncnn-insightface/ncnn/ncnn-master/build-vs2017/install/include/modelbin.h
+D:/ncnn-insightface/ncnn/ncnn-master/build-vs2017/install/include/net.h
+D:/ncnn-insightface/ncnn/ncnn-master/build-vs2017/install/include/opencv.h
+D:/ncnn-insightface/ncnn/ncnn-master/build-vs2017/install/include/paramdict.h
+D:/ncnn-insightface/ncnn/ncnn-master/build-vs2017/install/include/benchmark.h
+D:/ncnn-insightface/ncnn/ncnn-master/build-vs2017/install/include/layer_type_enum.h
+D:/ncnn-insightface/ncnn/ncnn-master/build-vs2017/install/include/platform.h
